@@ -1,0 +1,30 @@
+[submodule "jira"]
+	path = jira
+	url = git@github.com:jackmac92/jiraHelper.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:jackmac92/jenkinsHelper.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:jackmac92/cbiDevCli.git
+[submodule "serverUtils"]
+	path = serverUtils
+	url = git@github.com:jackmac92/cbiServerUtils.git
+[submodule "statusLightsOSX"]
+	path = statusLightsOSX
+	url = git@github.com:jackmac92/cbiStatusLights.git
+[submodule "jarvix"]
+	path = jarvix
+	url = git@github.com:jackmac92/jarvix.git
+[submodule "jarvix-extension"]
+	path = jarvix-extension
+	url = git@github.com:jackmac92/cbi-dev-extension.git
+[submodule "gitHooks"]
+	path = gitHooks
+	url = git@github.com:jackmac92/pre-commit.git
+[submodule "openFilesLocally"]
+	path = openFilesLocally
+	url = git@github.com:jackmac92/EditSrcHelper.git
+[submodule "bitbar"]
+	path = bitbar
+	url = git@github.com:jackmac92/cbitbar.git
