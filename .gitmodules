@@ -10,14 +10,11 @@
 [submodule "serverUtils"]
 	path = serverUtils
 	url = git@github.com:jackmac92/cbiServerUtils.git
-[submodule "statusLightsOSX"]
-	path = statusLightsOSX
-	url = git@github.com:jackmac92/cbiStatusLights.git
 [submodule "jarvix"]
 	path = jarvix
 	url = git@github.com:jackmac92/jarvix.git
 [submodule "jarvix-extension"]
-	path = jarvix-extension
+	path = dev-extension
 	url = git@github.com:jackmac92/cbi-dev-extension.git
 [submodule "gitHooks"]
 	path = gitHooks
