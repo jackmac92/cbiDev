@@ -25,3 +25,6 @@
 [submodule "bitbar"]
 	path = bitbar
 	url = git@github.com:jackmac92/cbitbar.git
+[submodule "dotFiles"]
+	path = dotFiles
+	url = git@github.com:jackmac92/dotFiles.git
