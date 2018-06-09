@@ -28,3 +28,6 @@
 [submodule "dotFiles"]
 	path = dotFiles
 	url = git@github.com:jackmac92/dotFiles.git
+[submodule "crucible"]
+	path = crucible
+	url = git@github.com:jackmac92/crucibleScripts.git
